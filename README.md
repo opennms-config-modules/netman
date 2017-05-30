@@ -9,4 +9,4 @@ Copy the datacollection file into $ONMS_HOME/etc/datacollection/ and don't forge
 
 OpenNMS needs a restart to load this config!
 
-
+The default UPS graphes will be used for these metrics too. So no need to create new ones.
