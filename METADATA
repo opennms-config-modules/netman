@@ -1,0 +1,6 @@
+name="riello-netman"
+publisher="The OpenNMS Group, Inc."
+author_email="ronny@opennms.org"
+license="GNU AFFERO GENERAL PUBLIC LICENSE 3"
+description="Monitoring configuration module for Riello UPS with Netman."
+version="0.1"
